@@ -1,2 +1,5 @@
-# The-wild-Oasis
-This project is a React + Supabase JS application that incorporates various functional React elements such as React Query, Framer Motion, and Recharts. It is designed to manage the operations of a hotel, focusing on guest and cabin management.
+# The wild Oasis Clone 
+
+This project is a react + supabase Js project that has many functional react elements like react query, framer motion and recharts. 
+
+## It's a project that is a hotel management of guests and cabins.
